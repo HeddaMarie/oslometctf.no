@@ -1,2 +1,2 @@
-# oslomet-ctf.no
+# oslometctf.no
 Oslo metropolitan university ctf team
