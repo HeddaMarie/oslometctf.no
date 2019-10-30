@@ -1,0 +1,27 @@
+
+
+
+.info{
+  margin-top: 2%;
+  margin-bottom: 0%;
+  font-size: 2.2vh;
+  text-align: center;
+
+}
+
+.grid {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+
+
+.tasks{
+  font-size: 2.2vh;
+  width: 85%;
+  height: auto;
+  padding: 2px;
+}
